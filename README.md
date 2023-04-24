@@ -7,7 +7,7 @@ Welcome to our FunFood Webpage full-stack website! This web application provides
  3.Admin panel for managing restaurants and orders\n
  4.Mobile-responsive design for a seamless user experience\n
 
-##Installation
+##Installation :
 Install VS Code for website making
 Install XAMPP for Web server
 Intall Latest stable version of PHP
