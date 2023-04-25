@@ -9,13 +9,14 @@ Wesite Video Link : https://youtu.be/4mabMalt0L4
  4. Mobile-responsive design for a seamless user experience
 
 ## Installation :
- 1. Install VS Code for website making
- 2. Install XAMPP for Web server
- 3. Intall Latest stable version of PHP
- 4. Database management system: MySQL or MariaDB
- 5. Database management tool: phpMyAdmin or Adminer
- 6. Backups: Regular database and file backups
-
+ 1. Download the zip file
+ 2. Extract the zip file
+ 3. Install XAMPP for Web server
+ 4. Intall Latest stable version of PHP
+ 5. Database management system: MySQL or MariaDB
+ 6. Database management tool: phpMyAdmin or Adminer
+ 7. Write the file path in your browser and then run wesite in localhost
+ 
 ## Usage :
 1. Navigate to the homepage and browse through the available restaurants
 2. Select your desired restaurant and add items to your cart
