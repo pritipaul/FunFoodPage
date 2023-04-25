@@ -39,7 +39,7 @@ Backups: Regular database and file backups
 
 ![Screenshot (324)](https://user-images.githubusercontent.com/75872164/234165692-943cff6b-06a5-4b3d-8df2-ff2b3ab545dc.png)
 
-## Top Selling Food 
+## Top Selling Product
 
 ![Screenshot (325)](https://user-images.githubusercontent.com/75872164/234165911-38879010-e33d-4cad-9bb0-435cbd107db9.png)
 
@@ -67,3 +67,13 @@ Backups: Regular database and file backups
 
 ![Screenshot (329)](https://user-images.githubusercontent.com/75872164/234166315-0d1d1b29-d1db-43d5-b095-abb3cda53df3.png)
 
+## Database 
+
+![Screenshot (334)](https://user-images.githubusercontent.com/75872164/234167289-dd76b0f2-0afa-4891-ac6f-8cc31fa5f957.png)
+
+## Contribution
+
+Welcome contributions to my project! Please submit bug reports and feature requests through our GitHub issues page. If you would like to contribute code, please fork the repository and submit a pull request with your changes.
+
+
+## I hope you enjoy using our FunFood Website!
