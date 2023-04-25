@@ -3,18 +3,18 @@ Welcome to our FunFood Webpage full-stack website! This web application provides
 Wesite Video Link : https://youtu.be/4mabMalt0L4
 
 ## Features :
- 1.Secure payment gateway integration
- 2.User authentication and authorization
- 3.Admin panel for managing restaurants and orders
- 4.Mobile-responsive design for a seamless user experience
+ 1. Secure payment gateway integration
+ 2. User authentication and authorization
+ 3. Admin panel for managing restaurants and orders
+ 4. Mobile-responsive design for a seamless user experience
 
 ## Installation :
-Install VS Code for website making
-Install XAMPP for Web server
-Intall Latest stable version of PHP
-Database management system: MySQL or MariaDB
-Database management tool: phpMyAdmin or Adminer
-Backups: Regular database and file backups
+ 1. Install VS Code for website making
+ 2. Install XAMPP for Web server
+ 3. Intall Latest stable version of PHP
+ 4. Database management system: MySQL or MariaDB
+ 5. Database management tool: phpMyAdmin or Adminer
+ 6. Backups: Regular database and file backups
 
 ## Usage :
 1. Navigate to the homepage and browse through the available restaurants
